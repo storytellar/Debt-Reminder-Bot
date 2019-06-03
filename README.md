@@ -1,6 +1,8 @@
 # Debt Reminder Bot
 
-Debt Reminder Bot is based on database from Google Sheets and Telegram Bot.
+> Debt Reminder Bot is based on database from Google Sheets and Telegram Bot.
+
+<img src="image.png" alt="" data-canonical-src="image.png" height="300" />
 
 ## Installation
 
